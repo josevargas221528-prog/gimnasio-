@@ -132,17 +132,17 @@ const datosMusculos = {
             {
                 nombre: "Crunch",
                 series: "3 series x 15-20 repeticiones",
-                imagen: "img/crunch.jpg"
+                imagen: "imagenes/Habdomen/Crunch.jfif"
             },
             {
                 nombre: "Elevaciones de piernas",
                 series: "3 series x 10-15 repeticiones",
-                imagen: "img/elevaciones-piernas.jpg"
+                imagen: "imagenes/Habdomen/Elevacion de piernas.jfif"
             },
             {
                 nombre: "Plancha",
                 series: "3 series x 30-60 segundos",
-                imagen: "img/plancha.jpg"
+                imagen: "imagenes/Habdomen/plancha.png"
             }
         ]
     },
@@ -156,17 +156,17 @@ const datosMusculos = {
             {
                 nombre: "Sentadilla",
                 series: "4 series x 8-12 repeticiones",
-                imagen: "img/sentadilla.jpg"
+                imagen: "imagenes/cuadriceps/sentadillas.jpg"
             },
             {
                 nombre: "Prensa",
                 series: "4 series x 10-12 repeticiones",
-                imagen: "img/prensa.jpg"
+                imagen: "imagenes/cuadriceps/prensa.jpg"
             },
             {
                 nombre: "Extensiones",
                 series: "3 series x 10-15 repeticiones",
-                imagen: "img/extensiones.jpg"
+                imagen: "imagenes/cuadriceps/extenciones.jfif"
             }
         ]
     },
